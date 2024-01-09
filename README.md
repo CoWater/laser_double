@@ -14,10 +14,10 @@ ros2 run laser_double laser_double
 
 红色为融合后的雷达数据，白色为雷达1数据
 
-![](/home/fang/Downloads/下载1.png)
+![](laser1.png)
 
 
 
 红色为融合后的雷达数据，白色为雷达2数据
 
-![](/home/fang/Downloads/2.png)
+![](laser2.png)
